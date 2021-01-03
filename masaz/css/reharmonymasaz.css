@@ -1,0 +1,106 @@
+body {
+	position: absolute;
+	background-color: white;
+	max-height:1700px;
+	width: 1640px;
+
+}
+
+.nav {
+	background-color: white;
+	width: 100%;
+	height: 300px;
+	color: black;
+	display: block;
+	position: absolute;
+	z-index: 1;	
+	margin-left: 200px;
+}
+
+.main {
+	margin-top: 30px;
+
+}
+.left {
+	margin-left: 606.6px;
+	position: absolute;
+}
+.logo {
+	width: 400px;
+	height: 150px;
+	margin-bottom: 70px;
+}
+
+.menu {
+position: relative;
+}
+
+div a {
+	float: left;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+a {
+	color: #996633;
+	margin-left: 50px;
+	font-size: 36px;
+	
+}
+.wodospad {
+	width: 400px;
+	height: 500px;
+	margin-left: 30px;
+}
+.wodospad1 {
+	width: 400px;
+	height: 500px;
+	margin-left: 200px;
+}
+.div1 {
+	font-family: sans-sherif;
+	font-size: 20px;
+	text-align: justify;
+	margin-left: 200px;
+	margin-right: 200px;
+
+}
+
+.stopka {
+	background-color: #996633;
+	width: 1640px;
+	height: 200px;
+	position: relative;
+	top: 50px;
+
+}
+
+.kontakt {
+	font-size: 25px;
+	font-family: sans-sherif;
+	color: white;
+	padding: 30px;
+	float: left;
+}
+
+.menustopka {
+	font-size: 25px;
+	font-family: sans-sherif;
+	color: white;
+	padding: 30px;
+	float: left;
+	margin-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
